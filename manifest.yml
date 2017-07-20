@@ -1,0 +1,6 @@
+---
+applications:
+- name: reacTube
+  memory: 800M
+  instances: 1
+  random-route: true
